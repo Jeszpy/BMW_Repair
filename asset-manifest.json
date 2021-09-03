@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/BMW_Repair/static/css/main.62f5cd91.chunk.css",
-    "main.js": "/BMW_Repair/static/js/main.89270996.chunk.js",
-    "main.js.map": "/BMW_Repair/static/js/main.89270996.chunk.js.map",
+    "main.css": "/BMW_Repair/static/css/main.8532b321.chunk.css",
+    "main.js": "/BMW_Repair/static/js/main.bddefc09.chunk.js",
+    "main.js.map": "/BMW_Repair/static/js/main.bddefc09.chunk.js.map",
     "runtime-main.js": "/BMW_Repair/static/js/runtime-main.749413c2.js",
     "runtime-main.js.map": "/BMW_Repair/static/js/runtime-main.749413c2.js.map",
-    "static/js/2.875945be.chunk.js": "/BMW_Repair/static/js/2.875945be.chunk.js",
-    "static/js/2.875945be.chunk.js.map": "/BMW_Repair/static/js/2.875945be.chunk.js.map",
+    "static/js/2.76746338.chunk.js": "/BMW_Repair/static/js/2.76746338.chunk.js",
+    "static/js/2.76746338.chunk.js.map": "/BMW_Repair/static/js/2.76746338.chunk.js.map",
     "index.html": "/BMW_Repair/index.html",
-    "static/css/main.62f5cd91.chunk.css.map": "/BMW_Repair/static/css/main.62f5cd91.chunk.css.map",
-    "static/js/2.875945be.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.875945be.chunk.js.LICENSE.txt",
+    "static/css/main.8532b321.chunk.css.map": "/BMW_Repair/static/css/main.8532b321.chunk.css.map",
+    "static/js/2.76746338.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.76746338.chunk.js.LICENSE.txt",
     "static/media/bmw-1.f3e73580.png": "/BMW_Repair/static/media/bmw-1.f3e73580.png",
-    "static/media/logo.71db1d9e.png": "/BMW_Repair/static/media/logo.71db1d9e.png"
+    "static/media/diagnostic.f042d2f7.png": "/BMW_Repair/static/media/diagnostic.f042d2f7.png",
+    "static/media/logo.71db1d9e.png": "/BMW_Repair/static/media/logo.71db1d9e.png",
+    "static/media/repair.f4c16a90.png": "/BMW_Repair/static/media/repair.f4c16a90.png"
   },
   "entrypoints": [
     "static/js/runtime-main.749413c2.js",
-    "static/js/2.875945be.chunk.js",
-    "static/css/main.62f5cd91.chunk.css",
-    "static/js/main.89270996.chunk.js"
+    "static/js/2.76746338.chunk.js",
+    "static/css/main.8532b321.chunk.css",
+    "static/js/main.bddefc09.chunk.js"
   ]
 }
