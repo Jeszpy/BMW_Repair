@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/BMW_Repair/static/css/main.a4a7cf51.chunk.css",
-    "main.js": "/BMW_Repair/static/js/main.829a0a45.chunk.js",
-    "main.js.map": "/BMW_Repair/static/js/main.829a0a45.chunk.js.map",
+    "main.css": "/BMW_Repair/static/css/main.55864fd1.chunk.css",
+    "main.js": "/BMW_Repair/static/js/main.23db1382.chunk.js",
+    "main.js.map": "/BMW_Repair/static/js/main.23db1382.chunk.js.map",
     "runtime-main.js": "/BMW_Repair/static/js/runtime-main.749413c2.js",
     "runtime-main.js.map": "/BMW_Repair/static/js/runtime-main.749413c2.js.map",
-    "static/js/2.ea746d97.chunk.js": "/BMW_Repair/static/js/2.ea746d97.chunk.js",
-    "static/js/2.ea746d97.chunk.js.map": "/BMW_Repair/static/js/2.ea746d97.chunk.js.map",
+    "static/js/2.7c340062.chunk.js": "/BMW_Repair/static/js/2.7c340062.chunk.js",
+    "static/js/2.7c340062.chunk.js.map": "/BMW_Repair/static/js/2.7c340062.chunk.js.map",
     "index.html": "/BMW_Repair/index.html",
-    "static/css/main.a4a7cf51.chunk.css.map": "/BMW_Repair/static/css/main.a4a7cf51.chunk.css.map",
-    "static/js/2.ea746d97.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.ea746d97.chunk.js.LICENSE.txt",
-    "static/media/bmw-1.f3e73580.png": "/BMW_Repair/static/media/bmw-1.f3e73580.png",
+    "static/css/main.55864fd1.chunk.css.map": "/BMW_Repair/static/css/main.55864fd1.chunk.css.map",
+    "static/js/2.7c340062.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.7c340062.chunk.js.LICENSE.txt",
+    "static/media/bmw.f3e73580.png": "/BMW_Repair/static/media/bmw.f3e73580.png",
     "static/media/diagnostic.5e1ae345.png": "/BMW_Repair/static/media/diagnostic.5e1ae345.png",
     "static/media/director.66163b84.png": "/BMW_Repair/static/media/director.66163b84.png",
     "static/media/firmware.50c5944c.png": "/BMW_Repair/static/media/firmware.50c5944c.png",
-    "static/media/logo.71db1d9e.png": "/BMW_Repair/static/media/logo.71db1d9e.png",
+    "static/media/life.1f3a8276.png": "/BMW_Repair/static/media/life.1f3a8276.png",
     "static/media/readErrors.eb3437b0.png": "/BMW_Repair/static/media/readErrors.eb3437b0.png",
     "static/media/repair2.0bfa5fb4.png": "/BMW_Repair/static/media/repair2.0bfa5fb4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.749413c2.js",
-    "static/js/2.ea746d97.chunk.js",
-    "static/css/main.a4a7cf51.chunk.css",
-    "static/js/main.829a0a45.chunk.js"
+    "static/js/2.7c340062.chunk.js",
+    "static/css/main.55864fd1.chunk.css",
+    "static/js/main.23db1382.chunk.js"
   ]
 }
