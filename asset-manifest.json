@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BMW_Repair/static/css/main.ac283b6a.chunk.css",
-    "main.js": "/BMW_Repair/static/js/main.1bed0bf6.chunk.js",
-    "main.js.map": "/BMW_Repair/static/js/main.1bed0bf6.chunk.js.map",
+    "main.css": "/BMW_Repair/static/css/main.267152f0.chunk.css",
+    "main.js": "/BMW_Repair/static/js/main.bd1aa349.chunk.js",
+    "main.js.map": "/BMW_Repair/static/js/main.bd1aa349.chunk.js.map",
     "runtime-main.js": "/BMW_Repair/static/js/runtime-main.749413c2.js",
     "runtime-main.js.map": "/BMW_Repair/static/js/runtime-main.749413c2.js.map",
-    "static/js/2.32f3a6f3.chunk.js": "/BMW_Repair/static/js/2.32f3a6f3.chunk.js",
-    "static/js/2.32f3a6f3.chunk.js.map": "/BMW_Repair/static/js/2.32f3a6f3.chunk.js.map",
+    "static/js/2.ceee423d.chunk.js": "/BMW_Repair/static/js/2.ceee423d.chunk.js",
+    "static/js/2.ceee423d.chunk.js.map": "/BMW_Repair/static/js/2.ceee423d.chunk.js.map",
     "index.html": "/BMW_Repair/index.html",
-    "static/css/main.ac283b6a.chunk.css.map": "/BMW_Repair/static/css/main.ac283b6a.chunk.css.map",
-    "static/js/2.32f3a6f3.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.32f3a6f3.chunk.js.LICENSE.txt",
+    "static/css/main.267152f0.chunk.css.map": "/BMW_Repair/static/css/main.267152f0.chunk.css.map",
+    "static/js/2.ceee423d.chunk.js.LICENSE.txt": "/BMW_Repair/static/js/2.ceee423d.chunk.js.LICENSE.txt",
     "static/media/bmw.f3e73580.png": "/BMW_Repair/static/media/bmw.f3e73580.png",
     "static/media/diagnostic.5e1ae345.png": "/BMW_Repair/static/media/diagnostic.5e1ae345.png",
     "static/media/director2.9603b25f.png": "/BMW_Repair/static/media/director2.9603b25f.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.749413c2.js",
-    "static/js/2.32f3a6f3.chunk.js",
-    "static/css/main.ac283b6a.chunk.css",
-    "static/js/main.1bed0bf6.chunk.js"
+    "static/js/2.ceee423d.chunk.js",
+    "static/css/main.267152f0.chunk.css",
+    "static/js/main.bd1aa349.chunk.js"
   ]
 }
